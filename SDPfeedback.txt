@@ -1,0 +1,26 @@
+
+Documentation Feedback ~ Deliverable #3
+Software Development Plan
+CMSI 4071 Fall 2024
+=======================================
+
+INTRODUCTION/DELIVERABLES SECTION:
+
+PROJECT RESOURCES SECTION:
+
+PROJECT ORGANIZATION SECTION:
+
+PROJECT SCHEDULE SECTION:
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Project Deliverables               1.0
+   Project Resources                  1.0
+   Project Organization               1.0
+   Project Schedule                   2.0
+                                     =====
+   Subtotal                           5.0
+   ------------------------------------------------------
+   Total Percentage:   5.0/5.0 = 100% which is an A-plus
+
+
