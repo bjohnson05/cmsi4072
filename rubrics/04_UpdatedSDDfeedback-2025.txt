@@ -1,0 +1,48 @@
+
+Continuing Group Project
+Documentation Feedback ~ Deliverable #4
+Updated Software Design Document
+CMSI 4072 Spring 2025
+==========================================
+
+DETAILED CLASS/MODULE DESCRIPTIONS:
+   New classes/modules added 2nd semester [y/n]
+   New classes/modules details adequate
+      or addressed that nothing new added [y/n]
+
+DETAILED INTERFACE DESCRIPTIONS:
+   New interfaces added 2nd semester [y/n]
+   New interfaces details adequate
+      or addressed that nothing new added [y/n]
+
+DETAILED DATA STRUCTURE DESCRIPTIONS:
+   New data structures added 2nd semester [y/n]
+   New data structure details adequate
+      or addressed that nothing new added [y/n]
+
+DETAILED DESIGN DIAGRAMS:
+   New diagrams added 2nd semester [y/n]
+   New diagrams adequate
+      or addressed that nothing new added [y/n]
+
+DATABASE DESIGN AND DESCRIPTION:
+   New ERD/diagrams added 2nd semester [y/n]
+   New ERD/diagrams adequate
+      or addressed that nothing new added [y/n]
+
+
+----------------------------------------------
+OVERALL ASSESSMENT:
+   Category                          Points
+   CSC/CSU Descriptions:                2 of  2
+   Class Descriptions:                  3 of  3
+   Interface Descriptions:              3 of  3
+   Data structure Descriptions:         1 of  1
+   Design diagrams:                     4 of  4
+   Database design/descriptions:        2 of  2
+                                     ===========
+   Subtotal                            15 of 15
+   ------------------------------------------------------
+   Total Percentage:  15/15 = 100% which is an A-plus
+
+

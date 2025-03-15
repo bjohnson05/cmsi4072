@@ -12,8 +12,10 @@ DETAILED CLASS DESCRIPTIONS:
 
 
 DETAILED INTERFACE DESCRIPTIONS:
+   Excellent job on this section ~ nothing to add here.
 
 DETAILED DATA STRUCTURE DESCRIPTIONS:
+   Excellent job on this section ~ nothing to add here.
 
 DETAILED DESIGN DIAGRAMS:
 

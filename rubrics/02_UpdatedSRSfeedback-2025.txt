@@ -1,0 +1,41 @@
+
+Continuing Group Project
+Documentation Feedback ~ Deliverable #2
+Updated Software Requirements Specification
+   Initial Development Schedule
+CMSI 4072 Spring 2025
+===========================================
+
+COMPONENT BREAKDOWN:
+   New components added 2nd semester [y/n]
+
+FUNCTIONAL REQUIREMENTS:
+   New requirements added 2nd semester [y/n]
+   New requirements adequate [y/n]
+
+PERFORMANCE REQUIREMENTS:
+   New requirements added 2nd semester [y/n]
+   New requirements adequate [y/n]
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Component Breakdown                 1/1
+   Functional Requirements             4/4
+   Performance Requirements            2/2
+   Environment Requirements            1/1
+                                     =====
+   Subtotal                            8/8
+   Preliminary 2nd semester schedule   2/2
+   ------------------------------------------------------
+   Total Percentage:   10/10 = 100% which is an A-plus
+
+COMMENTS:
+---------
+Great job!
+
+You have a good start on this document.
+
+Add in the acceptance criteria for your functional requirements, then add in
+some performance and environment requirements.  Re-post it by the end of the
+semester for full credit on this deliverable.
+

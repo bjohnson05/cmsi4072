@@ -1,0 +1,46 @@
+
+Continuing Group Project
+Documentation Feedback ~ Deliverable #3
+Initial Test Procedure Document
+CMSI 4072 Spring 2025
+=======================================
+
+LIST OF REQUIREMENTS/ACCEPTANCE CRITERIA:
+
+
+SOFTWARE START-UP PROCEDURE:
+
+
+TEST STEP FOR EACH REQUIREMENT/CRITERIA:
+
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Requirements/Criteria List          2/2
+   Software start-up procedure         2/2
+   Test step ea. requirement/crit.     6/6
+                                     =====
+   Subtotal                          10/10
+   ------------------------------------------------------
+   Total Percentage:   10/10 = 100% which is an A-plus
+
+Great job!
+
+
+----------------------------------------------------------------------------
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+----------------------------------------------------------------------------
+
+Documentation Feedback ~ Deliverable #5
+Test Procedure Document Complete
+============================================
+
+OVERALL ASSESSMENT:
+           Category                                Points
+   Comments from first submission incorporated       8/8
+   Spelling and Grammar in document acceptable       2/2
+                                                   =====
+   Subtotal                                        10/10
+   ------------------------------------------------------
+   Total Percentage:   10/10 = 100% which is an A-plus
